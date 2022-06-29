@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.pic{
+    background-image: url(../img/images.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+
+
+.box h1{
+    font-size: 40px;
+    text-align: center;
+    background: cadetblue;
+    padding: 20px 30px;
+    background-attachment: fixed;
+
+}
+.pic1{
+    background-image: url(../img/download.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.box1 h1{
+    font-size: 40px;
+    text-align: center;
+    background: aquamarine;
+    padding: 20px 30px;
+   
+
+}
+
+.pic2{
+    background-image: url(../img/images.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.box2 h1{
+    font-size: 40px;
+    text-align: center;
+    background: rgb(176, 127, 255);
+    padding: 20px 30px;
+    
+
+}
+.pic3{
+    background-image: url(../img/images\ \(2\).jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.box3 h1{
+    font-size: 40px;
+    text-align: center;
+    background: rgb(170, 255, 127);
+    padding: 20px 30px;
+    
+
+}
+
+.pic4{
+    background-image: url(../img/images\ \(1\).jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.box4 h1{
+    font-size: 40px;
+    text-align: center;
+    background: rgb(92, 155, 232);
+    padding: 20px 30px;
+    background-attachment: fixed;
+
+}
